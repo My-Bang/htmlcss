@@ -1,0 +1,29 @@
+#container {
+    width: 650px;
+    /* height: 250px; */
+    margin: 0 auto;
+    padding: 3px;
+}
+
+#content_cotainer {
+    width: 640px;
+    border: 1px solid black;
+}
+
+#title {
+    background: black;
+    font-size: 15px;
+    color: white;
+    margin: 0;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+.my_class1{
+    color: blue;
+}
+p{
+    text-align: center;
+}
