@@ -1,0 +1,24 @@
+/* 
+position :relavive
+자신을 기준으로 top, right, left, bottom에 간격을 주고 싶을 떄 사용
+
+*/
+
+
+body{
+    height: 10000vh;
+}
+
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+
+    position: static;
+}
+
+#second {
+    background-color: aquamarine;
+    position: fixed;
+}
